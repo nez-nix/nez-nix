@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nez-nix
+- 👋 Hi, I’m Neal
 - 👀 I’m interested in automation
 - 🌱 I’m currently learning python
 - 📫 How to reach me neal@tutamail.com
