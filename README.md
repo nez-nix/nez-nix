@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Neal
+- 🏠 I live in Derbyshire, England
 - 👀 I’m interested in automation
 - 🌱 I’m currently learning python
-- 📫 How to reach me neal@tutamail.com
+- 📫 My email is neal@tutamail.com
 
 <!---
 nez-nix/nez-nix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
