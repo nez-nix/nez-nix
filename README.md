@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Neal
 - 🏠 I live in Derbyshire, England
 - 👀 I’m interested in automation and cloud infrastructure
-- 🌱 I’m currently learning python, AWS, Node.js
+- 🌱 I’m currently learning python and AWS
 - 📫 My email is neal@tutamail.com
 
 <!---
